@@ -12,5 +12,5 @@ test('reject if github repo does not exist', async t => {
 })
 
 test('rejects when owner or repo is missing', async t => {
-	await t.throws(repoExist())
+  await t.throws(repoExist())
 })
