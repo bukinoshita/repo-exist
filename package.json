@@ -1,6 +1,6 @@
 {
   "name": "repo-exist",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Checks if GitHub repository exist",
   "main": "index.js",
   "repository": "git@github.com:bukinoshita/repo-exist.git",
