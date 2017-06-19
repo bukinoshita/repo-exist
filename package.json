@@ -1,0 +1,27 @@
+{
+  "name": "repo-exist",
+  "version": "0.0.0",
+  "description": "Checks if GitHub repository exist",
+  "main": "index.js",
+  "repository": "git@github.com:bukinoshita/repo-exist.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "xo --quiet && ava"
+  },
+  "dependencies": {
+    "gh-got": "^6.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false,
+    "esnext": true,
+    "rules": {
+      "object-curly-spacing": 0
+    }
+  }
+}
