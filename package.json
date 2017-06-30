@@ -1,6 +1,6 @@
 {
   "name": "repo-exist",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Checks if GitHub repository exist",
   "main": "index.js",
   "repository": "git@github.com:bukinoshita/repo-exist.git",
@@ -16,7 +16,15 @@
     "ava": "^0.19.1",
     "xo": "^0.18.2"
   },
-  "keywords": ["git", "github", "repository", "repo", "url", "https", "http"],
+  "keywords": [
+    "git",
+    "github",
+    "repository",
+    "repo",
+    "url",
+    "https",
+    "http"
+  ],
   "xo": {
     "space": true,
     "semicolon": false,
