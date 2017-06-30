@@ -2,6 +2,7 @@
 
 > Checks if GitHub repository exist
 
+
 ## Install
 
 ```
@@ -20,6 +21,7 @@ repoExist({ owner: 'bukinoshita', repo: 'not-a-repo' })
 //=> false
 ```
 
+
 ## API
 
 ### repoExist({ owner, repo })
@@ -35,6 +37,17 @@ Required
 
 Type: `string`<br>
 Required
+
+
+## Related
+
+- [git-synced](https://github.com/bukinoshita/git-synced) — 🎐 Keep a fork up to date
+- [repo-exist](https://github.com/bukinoshita/repo-exist) — Checks if GitHub repository exist
+- [gopn](https://github.com/bukinoshita/gopn) — Open GitHub repositories
+- [is-github-repo](https://github.com/bukinoshita/is-github-repo) — Checks if string is a git repository
+- [git-url-prettify](https://github.com/bukinoshita/git-url-prettify) — Prettify git url
+- [git-url-uglify](https://github.com/bukinoshita/git-url-uglify) — Uglify git url
+- [del-git-index](https://github.com/bukinoshita/del-git-index) — Safely delete index.lock of the current project
 
 ## License
 
