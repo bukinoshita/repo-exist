@@ -13,8 +13,8 @@
     "gh-got": "^6.0.0"
   },
   "devDependencies": {
-    "ava": "^0.19.1",
-    "xo": "^0.18.2"
+    "ava": "0.19.1",
+    "xo": "0.18.2"
   },
   "keywords": [
     "git",
