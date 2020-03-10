@@ -10,7 +10,7 @@
     "test": "xo --quiet && ava"
   },
   "dependencies": {
-    "gh-got": "^6.0.0"
+    "gh-got": "^9.0.0"
   },
   "devDependencies": {
     "ava": "0.25.0",
